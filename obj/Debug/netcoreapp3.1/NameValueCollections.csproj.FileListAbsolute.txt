@@ -1,0 +1,13 @@
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\NameValueCollections\bin\Debug\netcoreapp3.1\NameValueCollections.exe
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\NameValueCollections\bin\Debug\netcoreapp3.1\NameValueCollections.deps.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\NameValueCollections\bin\Debug\netcoreapp3.1\NameValueCollections.runtimeconfig.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\NameValueCollections\bin\Debug\netcoreapp3.1\NameValueCollections.runtimeconfig.dev.json
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\NameValueCollections\bin\Debug\netcoreapp3.1\NameValueCollections.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\NameValueCollections\bin\Debug\netcoreapp3.1\NameValueCollections.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\NameValueCollections\obj\Debug\netcoreapp3.1\NameValueCollections.csprojAssemblyReference.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\NameValueCollections\obj\Debug\netcoreapp3.1\NameValueCollections.AssemblyInfoInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\NameValueCollections\obj\Debug\netcoreapp3.1\NameValueCollections.AssemblyInfo.cs
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\NameValueCollections\obj\Debug\netcoreapp3.1\NameValueCollections.csproj.CoreCompileInputs.cache
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\NameValueCollections\obj\Debug\netcoreapp3.1\NameValueCollections.dll
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\NameValueCollections\obj\Debug\netcoreapp3.1\NameValueCollections.pdb
+C:\Users\unsto\Documents\Web\VisualStudio2019\Repos\NameValueCollections\obj\Debug\netcoreapp3.1\NameValueCollections.genruntimeconfig.cache
